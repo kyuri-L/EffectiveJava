@@ -1,4 +1,4 @@
-package ConstructAndDestroy.StaticFactoryMethod;
+package ConstructAndDestroy.Item1_StaticFactoryMethod;
 
 public class Member {
 	private String name;
